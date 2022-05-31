@@ -15,7 +15,7 @@ In recent years, 3.000 (!) organizations have already sold tickets through Event
 
 With the help of Eventgoose we will be organising a VrijMiBo (Friday Afternoon Drinks). A number of colleagues have already bought tickets and are eager to start the weekend. However, there are still a number of questions that need to be answered before the party can start and we need your help for that! 
 
-Answer the questions below in a programming language of your choice using the JSON files from the data folder.
+Answer the questions below in a programming language of your choice using the JSON files from the data folder. Please include the code you've written to answer these questions.
 
 ## Questions
 
